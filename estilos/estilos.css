@@ -13,7 +13,7 @@ body{
 }
 .header-1 {
   justify-content: center; /* Centra los elementos verticalmente */
-  background: url('../img/fondo2.jpg') no-repeat center center/cover; /* Fondo ajustado */
+  background: url('./img/fondo2.jpg') no-repeat center center/cover; /* Fondo ajustado */
   height: 400px; /* Ocupa toda la altura de la pantalla */
   background-attachment: fixed;
 }
@@ -96,7 +96,7 @@ body{
   display: block; /* Activamos Flexbox */
   justify-content: center; /* Centramos las cajas horizontalmente */
   align-items: center; /* Alineamos las cajas verticalmente si es necesario */
-  background: url('../img/fondo3.jpg');
+  background: url('./img/fondo3.jpg');
   background-attachment: fixed;
 }
   
